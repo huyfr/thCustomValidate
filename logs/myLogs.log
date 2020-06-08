@@ -1,0 +1,1003 @@
+2020-06-08 10:05:10 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:05:10 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:05:10 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:05:10 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:05:10 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:05:10 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:05:10 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:05:10 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:05:10 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:05:10 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:05:10 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:05:10 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:05:10 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:05:10 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:05:10 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:05:10 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:05:10 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:05:10 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:05:11 TRACE PhoneController:18 - Go into loadForm()
+2020-06-08 10:05:11 TRACE PhoneController:28 - Exit loadForm()
+2020-06-08 10:05:11 TRACE PhoneController:18 - Go into loadForm()
+2020-06-08 10:05:11 TRACE PhoneController:28 - Exit loadForm()
+2020-06-08 10:05:11 TRACE PhoneController:18 - Go into loadForm()
+2020-06-08 10:05:11 TRACE PhoneController:28 - Exit loadForm()
+2020-06-08 10:17:16 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:17:16 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:17:16 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:17:16 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:17:16 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:17:16 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:17:16 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:17:16 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:17:16 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:17:16 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:17:16 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:17:16 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:17:16 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:17:16 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:17:16 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:17:16 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:17:16 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:17:16 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:17:16 TRACE PhoneController:23 - Go into loadForm()
+2020-06-08 10:17:16 TRACE PhoneController:33 - Exit loadForm()
+2020-06-08 10:17:17 TRACE PhoneController:23 - Go into loadForm()
+2020-06-08 10:17:17 TRACE PhoneController:33 - Exit loadForm()
+2020-06-08 10:17:17 TRACE PhoneController:23 - Go into loadForm()
+2020-06-08 10:17:17 TRACE PhoneController:33 - Exit loadForm()
+2020-06-08 10:17:19 TRACE PhoneController:39 - Go into result()
+2020-06-08 10:17:19 TRACE PhoneController:54 - Exit result()
+2020-06-08 10:17:49 TRACE PhoneController:39 - Go into result()
+2020-06-08 10:17:49 TRACE PhoneController:54 - Exit result()
+2020-06-08 10:18:15 TRACE PhoneController:39 - Go into result()
+2020-06-08 10:18:15 TRACE PhoneController:54 - Exit result()
+2020-06-08 10:27:41 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:27:41 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:27:41 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:27:41 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:27:41 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:27:41 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:27:41 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:27:41 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:27:41 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:27:41 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:27:41 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:27:41 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:27:41 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:27:41 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:27:41 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:27:41 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:27:41 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:27:41 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:27:42 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:27:42 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:27:43 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:27:43 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:27:43 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:27:43 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:27:49 TRACE PhoneController:38 - Go into result()
+2020-06-08 10:27:49 INFO  PhoneController:39 - 1314654
+2020-06-08 10:31:42 TRACE PhoneController:54 - Exit result()
+2020-06-08 10:33:31 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:33:31 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:33:31 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:33:31 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:33:31 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:33:31 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:33:31 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:33:31 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:33:31 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:33:31 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:33:31 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:33:31 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:33:31 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:33:31 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:33:31 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:33:31 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:33:31 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:33:31 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:33:32 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:33:32 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:33:32 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:33:32 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:33:32 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:33:32 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:33:35 TRACE PhoneController:38 - Go into result()
+2020-06-08 10:33:35 INFO  PhoneController:39 - 
+2020-06-08 10:33:35 TRACE PhoneController:55 - Exit result()
+2020-06-08 10:40:17 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:40:17 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:40:17 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:40:17 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:40:17 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:40:17 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:40:17 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:40:17 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:40:17 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:40:17 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:40:17 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:40:17 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:40:17 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:40:17 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:40:17 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:40:17 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:40:17 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:40:17 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:40:18 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:40:18 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:40:18 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:40:18 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:40:19 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:40:19 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:40:24 TRACE PhoneController:38 - Go into result()
+2020-06-08 10:40:24 INFO  PhoneController:39 - 0858358088
+2020-06-08 10:40:24 TRACE PhoneController:55 - Exit result()
+2020-06-08 10:40:34 TRACE PhoneController:38 - Go into result()
+2020-06-08 10:40:34 INFO  PhoneController:39 - 085835808825
+2020-06-08 10:40:34 TRACE PhoneController:55 - Exit result()
+2020-06-08 10:41:08 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:41:08 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:41:09 TRACE PhoneController:38 - Go into result()
+2020-06-08 10:41:09 INFO  PhoneController:39 - 
+2020-06-08 10:41:09 TRACE PhoneController:55 - Exit result()
+2020-06-08 10:42:14 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:42:14 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:42:14 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:42:14 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:42:14 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:42:14 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:42:14 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:42:14 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:42:14 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:42:14 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:42:14 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:42:14 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:42:14 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:42:14 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:42:14 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:42:14 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:42:14 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:42:14 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:42:15 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:42:15 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:42:16 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:42:16 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:42:16 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:42:16 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:42:37 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:42:37 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:42:37 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:42:37 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:42:37 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:42:37 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:42:37 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:42:37 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:42:37 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:42:37 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:42:37 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:42:37 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:42:37 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:42:37 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:42:37 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:42:37 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:42:37 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:42:37 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:42:38 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:42:38 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:42:39 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:42:39 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:42:39 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:42:39 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:43:11 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:43:11 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:43:11 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:43:11 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:43:11 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:43:11 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:43:11 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:43:11 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:43:11 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:43:11 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:43:11 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:43:11 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:43:11 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:43:11 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:43:11 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:43:11 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:43:11 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:43:11 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:43:12 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:43:12 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:43:12 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:43:12 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:43:12 TRACE PhoneController:22 - Go into loadForm()
+2020-06-08 10:43:12 TRACE PhoneController:32 - Exit loadForm()
+2020-06-08 10:43:15 TRACE PhoneController:38 - Go into result()
+2020-06-08 10:43:15 INFO  PhoneController:39 - 
+2020-06-08 10:43:15 TRACE PhoneController:55 - Exit result()
+2020-06-08 10:46:55 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:46:55 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:46:55 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:46:55 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:46:55 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:46:55 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:46:55 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:46:55 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy28
+2020-06-08 10:46:55 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:46:55 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:46:55 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:46:55 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:46:55 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:46:55 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:46:55 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:46:55 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:46:55 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:46:55 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:48:40 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:48:40 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:48:40 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:48:40 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:48:40 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:48:40 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:48:40 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:48:40 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy28
+2020-06-08 10:48:40 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:48:40 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:48:40 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:48:40 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:48:40 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:48:40 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:48:40 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:48:40 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:48:40 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:48:40 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:53:27 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:53:27 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:53:27 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:53:27 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:53:27 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:53:27 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:53:27 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:53:27 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy28
+2020-06-08 10:53:27 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:53:27 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:53:27 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:53:27 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:53:27 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:53:27 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:53:27 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:53:27 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:53:27 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:53:27 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:56:06 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:56:06 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:56:06 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:56:06 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:56:06 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:56:06 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:56:06 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:56:06 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy28
+2020-06-08 10:56:06 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:56:06 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:56:06 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:56:06 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:56:06 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:56:06 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:56:06 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:56:06 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:56:06 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:56:06 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:57:58 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 10:57:58 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 10:57:58 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 10:57:58 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 10:57:58 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 10:57:58 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 10:57:58 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 10:57:58 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 10:57:58 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 10:57:58 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 10:57:58 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 10:57:58 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 10:57:58 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 10:57:58 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 10:57:58 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 10:57:58 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 10:57:58 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 10:57:58 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 10:57:59 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 10:57:59 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 10:57:59 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 10:57:59 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 10:57:59 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 10:57:59 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 10:58:02 TRACE PhoneController:36 - Go into result()
+2020-06-08 10:58:02 INFO  PhoneController:37 - 
+2020-06-08 10:58:02 TRACE PhoneController:53 - Exit result()
+2020-06-08 10:58:09 TRACE PhoneController:36 - Go into result()
+2020-06-08 10:58:09 INFO  PhoneController:37 - 0858358088
+2020-06-08 10:58:09 TRACE PhoneController:53 - Exit result()
+2020-06-08 10:58:13 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 10:58:13 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:06:45 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:06:45 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:06:45 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:06:45 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:06:45 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:06:45 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:06:45 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:06:45 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:06:45 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:06:45 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:06:45 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:06:45 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:06:45 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:06:45 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:06:45 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:06:45 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:06:45 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:06:45 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:06:46 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:06:46 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:06:46 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:06:46 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:06:47 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:06:47 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:06:48 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:06:48 INFO  PhoneController:37 - 
+2020-06-08 11:06:48 TRACE PhoneController:52 - Exit result()
+2020-06-08 11:07:31 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:07:31 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:07:31 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:07:31 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:07:31 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:07:31 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:07:31 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:07:31 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:07:31 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:07:31 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:07:31 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:07:31 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:07:31 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:07:31 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:07:31 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:07:31 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:07:31 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:07:31 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:07:32 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:07:32 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:07:33 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:07:33 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:07:33 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:07:33 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:07:34 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:07:34 INFO  PhoneController:37 - 
+2020-06-08 11:07:34 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:07:34 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:07:34 TRACE PhoneController:52 - Exit result()
+2020-06-08 11:07:37 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:07:37 INFO  PhoneController:37 - 
+2020-06-08 11:07:37 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:07:37 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:07:37 TRACE PhoneController:52 - Exit result()
+2020-06-08 11:07:51 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:07:51 INFO  PhoneController:37 - 12
+2020-06-08 11:07:51 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:07:51 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:07:51 TRACE PhoneController:52 - Exit result()
+2020-06-08 11:07:54 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:07:54 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:07:54 TRACE PhoneController:52 - Exit result()
+2020-06-08 11:08:36 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:08:36 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:08:36 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:08:36 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:08:36 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:08:36 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:08:36 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:08:36 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:08:36 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:08:36 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:08:36 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:08:36 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:08:36 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:08:36 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:08:36 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:08:36 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:08:36 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:08:36 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:08:37 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:08:37 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:08:38 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:08:38 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:08:38 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:08:38 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:08:40 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:08:40 INFO  PhoneController:37 - 
+2020-06-08 11:08:40 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:08:40 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:08:40 TRACE PhoneController:52 - Exit result()
+2020-06-08 11:08:41 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:08:41 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:08:41 TRACE PhoneController:52 - Exit result()
+2020-06-08 11:11:35 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:11:35 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:11:35 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:11:35 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:11:35 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:11:35 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:11:35 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:11:35 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:11:35 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:11:35 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:11:35 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:11:35 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:11:35 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:11:35 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:11:35 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:11:35 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:11:35 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:11:35 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:11:36 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:11:36 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:11:36 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:11:36 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:11:36 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:11:36 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:11:39 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:11:39 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:11:39 TRACE PhoneController:53 - Exit result()
+2020-06-08 11:11:41 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:11:41 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:11:45 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:11:45 INFO  PhoneController:37 - 
+2020-06-08 11:11:45 TRACE PhoneController:53 - Exit result()
+2020-06-08 11:14:08 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:14:08 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:14:08 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:14:08 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:14:08 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:14:08 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:14:08 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:14:08 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:14:08 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:14:08 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:14:08 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:14:08 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:14:08 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:14:09 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:14:09 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:14:09 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:14:09 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:14:09 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:14:09 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:14:09 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:14:10 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:14:10 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:14:10 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:14:10 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:14:13 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:14:13 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:14:13 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:14:16 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:14:16 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:14:20 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:14:20 INFO  PhoneController:37 - 
+2020-06-08 11:14:20 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:14:29 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:14:29 INFO  PhoneController:37 - 1
+2020-06-08 11:14:29 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:16:51 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:16:51 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:16:51 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:16:51 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:16:51 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:16:51 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:16:51 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:16:51 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:16:51 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:16:51 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:16:51 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:16:51 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:16:51 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:16:51 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:16:51 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:16:51 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:16:51 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:16:51 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:16:52 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:16:52 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:16:52 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:16:52 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:16:52 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:16:52 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:16:55 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:16:55 INFO  PhoneController:37 - 
+2020-06-08 11:16:55 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:16:58 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:16:58 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:16:58 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:17:00 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:17:00 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:17:03 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:17:03 INFO  PhoneController:37 - 
+2020-06-08 11:17:03 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:17:28 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:17:28 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:17:28 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:17:28 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:17:28 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:17:28 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:17:28 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:17:28 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:17:28 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:17:28 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:17:28 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:17:28 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:17:28 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:17:29 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:17:29 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:17:29 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:17:29 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:17:29 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:17:29 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:17:29 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:17:30 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:17:30 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:17:30 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:17:30 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:17:36 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:17:36 INFO  PhoneController:37 - 
+2020-06-08 11:19:12 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:24:30 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:24:30 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:24:30 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:24:30 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:24:30 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:24:30 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:24:30 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:24:30 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:24:30 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:24:30 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:24:30 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:24:30 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:24:30 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:24:30 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:24:30 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:24:30 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:24:30 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:24:30 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:24:31 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:24:31 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:24:31 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:24:31 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:24:31 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:24:31 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:24:38 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:24:38 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:24:38 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:24:39 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:24:39 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:24:43 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:24:43 INFO  PhoneController:37 - 
+2020-06-08 11:24:43 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:25:03 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:25:03 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:25:03 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:25:03 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:25:03 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:25:03 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:25:03 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:25:03 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:25:03 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:25:03 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:25:03 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:25:03 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:25:03 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:25:03 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:25:03 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:25:03 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:25:03 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:25:03 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:25:03 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:25:03 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:25:04 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:25:04 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:25:04 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:25:04 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:27:04 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:27:04 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:27:04 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:27:04 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:27:04 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:27:04 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:27:04 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:27:04 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:27:04 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:27:04 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:27:04 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:27:04 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:27:04 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:27:05 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:27:05 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:27:05 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:27:05 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:27:05 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:27:06 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:27:06 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:27:06 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:27:06 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:27:06 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:27:06 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:27:08 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:27:08 INFO  PhoneController:37 - 
+2020-06-08 11:31:18 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:31:28 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:31:28 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:31:28 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:31:28 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:31:28 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:31:28 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:31:28 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:31:28 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:31:28 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:31:28 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:31:28 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:31:28 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:31:28 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:31:28 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:31:28 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:31:28 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:31:28 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:31:28 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:31:29 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:31:29 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:31:30 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:31:30 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:31:30 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:31:30 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:31:37 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:31:37 INFO  PhoneController:37 - 
+2020-06-08 11:34:19 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:34:30 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:34:30 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:34:30 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:34:30 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:34:30 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:34:30 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:34:30 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:34:30 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:34:30 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:34:30 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:34:30 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:34:30 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:34:30 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:34:30 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:34:30 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:34:30 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:34:30 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:34:30 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:34:31 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:34:31 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:34:32 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:34:32 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:34:32 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:34:32 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:34:42 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:34:42 INFO  PhoneController:37 - 
+2020-06-08 11:35:12 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@4c8cf722, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:35:12 TRACE PhoneController:56 - Exit result()
+2020-06-08 11:35:24 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:35:24 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:35:24 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:35:24 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:35:24 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:35:24 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:35:24 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:35:24 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:35:24 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:35:24 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:35:24 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:35:24 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:35:24 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:35:24 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:35:24 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:35:24 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:35:24 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:35:24 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:35:25 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:35:25 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:35:26 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:35:26 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:35:26 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:35:26 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:35:29 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:35:29 INFO  PhoneController:37 - 
+2020-06-08 11:36:13 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@1134e76a, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:36:13 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@1134e76a, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:36:13 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:36:47 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:36:47 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:36:47 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:36:47 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:36:47 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:36:47 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:36:47 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:36:47 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:36:47 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:36:47 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:36:47 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:36:47 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:36:47 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:36:47 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:36:47 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:36:47 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:36:47 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:36:47 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:36:48 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:36:48 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:36:48 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:36:48 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:36:48 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:36:48 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:36:55 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:36:55 INFO  PhoneController:37 - 
+2020-06-08 11:36:55 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@5a443475, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [TESTETST.phoneNumber.number,TESTETST.number,TESTETST.java.lang.String,TESTETST]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:36:55 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@5a443475, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [TESTETST.phoneNumber.number,TESTETST.number,TESTETST.java.lang.String,TESTETST]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:36:55 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:37:28 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:37:28 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:37:28 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@71d5786f, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 0 errors}
+2020-06-08 11:37:28 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@71d5786f, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 0 errors}
+2020-06-08 11:37:28 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:37:30 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:37:30 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:39:50 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:39:50 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:39:50 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:39:50 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:39:50 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:39:50 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:39:50 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:39:50 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:39:50 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:39:50 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:39:50 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:39:50 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:39:50 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:39:50 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:39:50 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:39:50 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:39:50 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:39:50 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:39:50 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:39:50 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:39:51 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:39:51 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:39:51 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:39:51 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:39:55 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:39:55 INFO  PhoneController:37 - 
+2020-06-08 11:39:55 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@26781595, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:39:55 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@26781595, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:39:55 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:41:26 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:41:26 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:41:26 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:41:26 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:41:26 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:41:26 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:41:26 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:41:26 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:41:26 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:41:26 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:41:26 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:41:26 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:41:26 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:41:26 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:41:26 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:41:26 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:41:26 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:41:26 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:41:27 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:41:27 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:41:28 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:41:28 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:41:28 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:41:28 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:41:29 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:41:29 INFO  PhoneController:37 - 
+2020-06-08 11:41:29 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@4b419310, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:41:29 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@4b419310, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:41:29 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:43:24 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:43:24 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:43:24 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:43:24 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:43:24 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:43:24 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:43:24 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:43:24 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:43:24 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:43:24 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:43:24 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:43:24 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:43:24 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:43:24 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:43:24 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:43:24 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:43:24 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:43:24 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:43:25 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:43:25 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:43:25 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:43:25 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:43:26 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:43:26 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:43:32 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:43:32 INFO  PhoneController:37 - 
+2020-06-08 11:43:32 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@5a443475, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:43:32 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@5a443475, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:43:32 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:45:27 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:45:27 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:45:27 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:45:27 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:45:27 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:45:27 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:45:27 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:45:27 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:45:27 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:45:27 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:45:27 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:45:27 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:45:27 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:45:27 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:45:27 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:45:27 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:45:27 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:45:27 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:45:28 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:45:28 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:45:29 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:45:29 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:45:29 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:45:29 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:45:31 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:45:31 INFO  PhoneController:37 - 
+2020-06-08 11:45:31 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@4241e55f, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:45:31 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@4241e55f, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:45:31 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:50:25 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:50:25 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:50:25 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:50:25 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:50:25 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:50:25 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:50:25 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:50:25 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:50:25 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:50:25 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:50:25 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:50:25 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:50:25 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:50:25 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:50:25 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:50:25 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:50:25 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:50:25 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:50:26 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:50:26 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:50:26 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:50:26 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:50:26 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:50:26 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:51:53 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:51:53 INFO  PhoneController:37 - 
+2020-06-08 11:51:53 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@146df7f9, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:51:53 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@146df7f9, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 3 errors
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.empty.phoneNumber.number,number.empty.number,number.empty.java.lang.String,number.empty]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value []; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:51:53 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:51:56 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:51:56 INFO  PhoneController:37 - 12
+2020-06-08 11:51:56 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@47574d1f, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'phoneNumber' on field 'number': rejected value [12]; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value [12]; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:51:56 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@47574d1f, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 2 errors
+Field error in object 'phoneNumber' on field 'number': rejected value [12]; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]
+Field error in object 'phoneNumber' on field 'number': rejected value [12]; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:51:56 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:52:02 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:52:02 INFO  PhoneController:37 - 12345678910
+2020-06-08 11:52:02 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@4c420d7e, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'phoneNumber' on field 'number': rejected value [12345678910]; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:52:02 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@4c420d7e, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'phoneNumber' on field 'number': rejected value [12345678910]; codes [number.startWith.phoneNumber.number,number.startWith.number,number.startWith.java.lang.String,number.startWith]; arguments []; default message [null]}
+2020-06-08 11:52:02 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:52:05 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:52:05 INFO  PhoneController:37 - 012345678910
+2020-06-08 11:52:05 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@3fdcea40, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'phoneNumber' on field 'number': rejected value [012345678910]; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]}
+2020-06-08 11:52:05 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@3fdcea40, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 1 errors
+Field error in object 'phoneNumber' on field 'number': rejected value [012345678910]; codes [number.length.phoneNumber.number,number.length.number,number.length.java.lang.String,number.length]; arguments []; default message [null]}
+2020-06-08 11:52:05 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:52:07 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:52:07 INFO  PhoneController:37 - 0123456789
+2020-06-08 11:52:07 INFO  PhoneController:40 - {phoneNumber=model.PhoneNumber@50d93d81, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 0 errors}
+2020-06-08 11:52:07 DEBUG PhoneController:41 - {phoneNumber=model.PhoneNumber@50d93d81, org.springframework.validation.BindingResult.phoneNumber=org.springframework.validation.BeanPropertyBindingResult: 0 errors}
+2020-06-08 11:52:07 TRACE PhoneController:57 - Exit result()
+2020-06-08 11:53:26 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2020-06-08 11:53:26 INFO  Version:21 - HV000001: Hibernate Validator 6.0.10.Final
+2020-06-08 11:53:26 DEBUG TraversableResolvers:93 - Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+2020-06-08 11:53:26 DEBUG TraversableResolvers:103 - Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+2020-06-08 11:53:26 DEBUG ResourceBundleMessageInterpolator:89 - Loaded expression factory via original TCCL
+2020-06-08 11:53:26 DEBUG ConfigurationImpl:148 - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2020-06-08 11:53:26 DEBUG ConfigurationImpl:180 - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2020-06-08 11:53:26 DEBUG ConfigurationImpl:194 - Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy24
+2020-06-08 11:53:26 DEBUG ValidationXmlParser:133 - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-06-08 11:53:26 DEBUG ResourceLoaderHelper:53 - Trying to load META-INF/validation.xml via user class loader
+2020-06-08 11:53:26 DEBUG ResourceLoaderHelper:60 - Trying to load META-INF/validation.xml via TCCL
+2020-06-08 11:53:26 DEBUG ResourceLoaderHelper:66 - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2020-06-08 11:53:26 DEBUG ValidationXmlParser:140 - No META-INF/validation.xml found. Using annotation based configuration only.
+2020-06-08 11:53:26 DEBUG ValidatorFactoryImpl:578 - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2020-06-08 11:53:26 DEBUG ValidatorFactoryImpl:579 - HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+2020-06-08 11:53:26 DEBUG ValidatorFactoryImpl:580 - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2020-06-08 11:53:26 DEBUG ValidatorFactoryImpl:581 - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2020-06-08 11:53:26 DEBUG ValidatorFactoryImpl:582 - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2020-06-08 11:53:27 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:53:27 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:53:27 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:53:27 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:53:27 TRACE PhoneController:20 - Go into loadForm()
+2020-06-08 11:53:27 TRACE PhoneController:30 - Exit loadForm()
+2020-06-08 11:53:29 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:53:29 INFO  PhoneController:37 - 
+2020-06-08 11:53:29 TRACE PhoneController:54 - Exit result()
+2020-06-08 11:53:31 TRACE PhoneController:36 - Go into result()
+2020-06-08 11:53:31 INFO  PhoneController:37 - 0858358088
+2020-06-08 11:53:31 TRACE PhoneController:54 - Exit result()
